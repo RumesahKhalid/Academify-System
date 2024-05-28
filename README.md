@@ -9,7 +9,7 @@ Access records, view marks, and communicate effortlessly.
 </h3>
 
 <br>
-[Live demo]()
+[Live demo](https://academify-system.vercel.app/)
 
 # About
 
