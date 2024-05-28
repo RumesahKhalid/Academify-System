@@ -58,9 +58,7 @@ npm install
 npm start
 ```
 
-Don't forget to leave a star for this project if you found the solution helpful. Thank you!
-
 # Deployment
 * Render - server side
-* Netlify - client side
+* Vercel - client side
 
